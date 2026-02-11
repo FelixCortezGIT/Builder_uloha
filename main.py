@@ -45,4 +45,7 @@ pasta4 = (PastaBuilder()
           .add_chilli("mild")
           .build())
 
+print(pasta1)
+print(pasta2)
+print(pasta3)
 print(pasta4)
